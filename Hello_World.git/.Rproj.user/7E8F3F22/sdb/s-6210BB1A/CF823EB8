@@ -1,0 +1,18 @@
+{
+    "contents" : "# Testing version control with BitHub repository\n# Jadon Thomson\n# 2016-01-22\n\nHW <- \"Hello World\"\nlen <- nchar(HW)\nfor (i in 1:len){\n  print(as.character(substr(HW, i, i)))     #splitting up the characters\n}",
+    "created" : 1453457657878.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3008833869",
+    "id" : "CF823EB8",
+    "lastKnownWriteTime" : 1453458135,
+    "path" : "C:/Users/jadon.thomson/Desktop/Hello_World/Hello_World.git/Hello_World.R",
+    "project_path" : "Hello_World.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
